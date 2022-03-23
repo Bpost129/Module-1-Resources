@@ -30,4 +30,4 @@ let pokemonCreator = () => {
   return pokemons;
 }
 
-module.exports = pokemonCreator;  
+module.exports = pokemonCreator;
